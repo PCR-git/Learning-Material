@@ -1,4 +1,4 @@
-READING LIST:
+# READING LIST:
 ————————— 
 
 https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73 
@@ -983,3 +983,4 @@ Zoe Baker: https://www.youtube.com/@anarchopac
 S21: https://www.rs21.org.uk/2019/01/25/revolutionary-reflections-notes-on-capital-and-the-state-part-1/
 Break Their Haughty Power: https://breaktheirhaughtypower.org/
 https://libcom.org/
+

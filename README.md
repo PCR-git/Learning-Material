@@ -1,44 +1,29 @@
-# READING LIST:
-————————— 
+# Reading List
 
-https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73 
-Energy-based Models; G-Flow Nets
-Machine Learning from a Continuous Viewpoint: https://arxiv.org/pdf/1912.12777.pdf
-Gradient flows: https://francisbach.com/gradient-flows/
-Physics-Based Deep Learning: http://physicsbaseddeeplearning.org/intro.html [DIFFERENTIABLE PHYSICS WITH NNS, REINFORCEMENT LEARNING, PBDL AND UNCERTAINTY, FAST FORWARD TOPICS]
-Retention
-
-PAPERS:
-My Github: https://github.com/PCR-git/Read-Papers/blob/main/README.md
-Hugging Face Tutorial [from: https://huggingface.co/learn/nlp-course/chapter4/2?fw=pt]
-UvA DL Notebooks: https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial6/Transformers_and_MHAttention.html
-GPT-2 Tutorial: https://rowlando13.medium.com/everything-gpt-2-5-fine-tuning-885aec508c4
-Github Tutorial; How to run Python locally; How to create Python virtual environment / Conda environment? https://virtualenv.pypa.io/en/stable/
-
-TECHNICAL:
+APPLIED MACHINE LEARNING:
 Reinforcement Learning: An Introduction (Sutton & Barto) [Reread Ch 1-8, from Ch. 9]
 Deep Learning (Bengio, Courville, Goodfellow)
-Statistical Mechanics (Eric D’Hoker, from UCLA Physics 215A) [Ch. 2]
-
-Deep Learning in Neural Networks: An Overview: https://arxiv.org/pdf/1404.7828.pdf
 Interpretable machine learning: https://christophm.github.io/interpretable-ml-book/index.html [5.3-5.7, 8, 9, 10]
 https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/DL2/Dynamical_Neural_Networks/Complete_DNN_2_1.html
 Grokking Deep Reinforcement Learning (Morales)
+Speech and Language Processing (Jurafsky, Martin)
+Machine Learning Control (Duriez, Brunton, Noack) [Ch. 2]
+Pattern Recognition and Machine Learning (Bishop)
+Statistical Inference (Casella & Berger)
+Introduction to Artificial Intelligence (Russell & Norvig) [Ch. 4, Ch. 7 from 7.5.3]
+
+THEORY:
+Statistical Mechanics (Eric D’Hoker, from UCLA Physics 215A) [Ch. 2]
+Deep Learning in Neural Networks: An Overview: https://arxiv.org/pdf/1404.7828.pdf
 Reinforcement Learning and Optimal Control (Bertsekas)
 Reinforcement Learning Theory: https://rltheory.github.io/
 https://atcold.github.io/pytorch-Deep-Learning/
-Graph Representation Learning (William L. Hamilton): https://www.cs.mcgill.ca/~wlh/grl_book/
-Speech and Language Processing (Jurafsky, Martin)
-
-Machine Learning Control (Duriez, Brunton, Noack) [Ch. 2]
 Understanding Machine Learning (Shalev-Shwartz, Ben-David) [6]
-Pattern Recognition and Machine Learning (Bishop)
-Statistical Inference (Casella & Berger)
 Theoretical Statistics (Keener)
 Deep Learning Theory lecture notes (Matus Telgarsky)
 Deep Learning Theory (Sanjeev Arora)
 The Principles of Deep Learning Theory (Roberts, Yaida, Hanin)
-Introduction to Artificial Intelligence (Russell & Norvig) [Ch. 4, Ch. 7 from 7.5.3]
+Graph Representation Learning (William L. Hamilton): https://www.cs.mcgill.ca/~wlh/grl_book/
 Machine Learning: A Probabilistic Perspective (Kevin P. Murphy)
 Introduction to Algorithms (Cormen, et al)
 Algorithm Design (Kleinberg & Tardos) [from 5/13]
@@ -46,13 +31,16 @@ Introduction to the Theory of Computation (Sipser) [Ch. 1]
 Cracking the Coding Interview
 The C Programming Language (2nd Edition)
 Statistical Mechanics (Pathria)
-Neuro-symbolic Reasoning and Learning
+Neuro-Symbolic Reasoning and Learning
 Modern applications of machine learning in quantum sciences
 
 ————————————————————————————————————————————
 
 IN PROGRESS:
 
+The Letter of the 46
+Lenin’s last works
+The Young CLR James: A Graphic Novelette
 Evolutionary origins of your right and left brain: https://www.scientificamerican.com/article/evolutionary-origins-of-your-right-and-left-brain/ 
 The Inevitability of Communism (Paul Mattick)
 Critique of Herbert Marcuse: The one-dimensional man in class society (Paul Mattick) [VIII]: https://libcom.org/article/critique-marcuse-and-one-dimensional-man-class-society-paul-mattick
@@ -118,6 +106,7 @@ The Cooperative Movement: Globalization from Below (Richard Williams)
 The Telekommunist Manifesto (Dmytri Kleiner)
 The Bolsheviks and Workers’ Control: The State and Counter-Revolution (Maurice Brinton)
 Before Stalinism: The Rise and Fall of Soviet Democracy (Samuel Farber)
+Lenin's Last Struggle (Moshe Lewin)
 Marx’s Dialectic (Paul Mattick Jr.)
 Analysis of Howl
 Kaddish (Ginsberg)
@@ -153,16 +142,9 @@ Historical Materialism A Brief Overview and Left-Libertarian Reinterpretation (E
 Democratic Economic Planning (Robin Hahnei)
 A Future for Socialism (Roemer)
 Towards a New Socialism (Paul Cockshott and Allin Cottrell)
-Automation and the Future of Work (Aaron Benanav)
-Steedman vs Sweezy
-Marxian Value Theory and Crises (Paul Sweezy)
-The Rights of Man to Property (Thomas Skidmore)
-Opportunism and Empiricism (Cliff Slaughter)
-https://www.marxists.org/reference/subject/philosophy/works/en/cliff.htm
 Survival In Auschwitz (Primo Levi)
 
 Imperialism and the Development Myth (Sam King)
-Smart Machines and Service Work (Jason E Smith)
 Address of the Central Committee to the Communist League (Marx, 1850)
 The Professional Managerial Class (Barbara and John Ehrenreich)
 https://www.marxists.org/archive/marx/works/1844/james-mill/
@@ -176,7 +158,13 @@ The Buried Breath; Phantom Gang (Ciarán O'Rourke)
 The Diving Bell and the Butterfly (Jean-Dominique Bauby)
 Economic, Social and Demographic Thought in the XIXth Century: The Population Debate from Malthus to Marx (Charbit)
 
-Intro to Brain-Like-AGI Safety
+Automation and the Future of Work (Aaron Benanav)
+Steedman vs Sweezy
+Marxian Value Theory and Crises (Paul Sweezy)
+The Rights of Man to Property (Thomas Skidmore)
+Opportunism and Empiricism (Cliff Slaughter)
+https://www.marxists.org/reference/subject/philosophy/works/en/cliff.htm
+Smart Machines and Service Work (Jason E Smith)
 An Introduction to Marxist Economic Theory (Ernest Mandel)
 Post Capitalism (Paul Mason)
 Rulers of the world, unite! The challenges and opportunities of artificial intelligence (Andreas Kaplan and Michael Haenlein)
@@ -185,20 +173,32 @@ Statistical Physics of Self-Replication (2012) by Jeremy England
 First Support for a Physics Theory of Life (2017)
 Barrington Moore, Anthony Giddens, and Michael Mann
 
+VIJAY PRASHAD:
+The Darker Nations: A People's History of the Third World (Vijay Prashad)
+The Poorer Nations: A Possible History of the Global South (Vijay Prashad)
+The Death of the Nation and the Future of the Arab Revolution (Vijay Prashad)
+Washington Bullets: A History of the CIA, Coups, and Assassinations (Vijay Prashad)
+
 THE PHILIPPINES:
 Philippine Society and Revolution (Sison)
-Teodoro Agoncillo’s History of the Filipino People
-Renato Constantino’s The Miseducation of the Filipino
-Pasyon and Revolution by Reynaldo Ileto
+History of the Filipino People (Teodoro Agoncillo)
+The Miseducation of the Filipino (Renato Constantino)
+Pasyon and Revolution (Reynaldo Ileto)
 Luzon at War (Milagros Guerrero)
 Banaag at Sikat or From Early Dawn to Full Light (Lope K. Santos)
 
 CHINA:
+China's Twentieth Century (Wang Hui)
+The End of the Revolution: China and the Limits of Modernity (Wang Hui)
 Appeal to All the Comrades of the Chinese Communist Party (Chen Duxiu)
 The Chinese Revolution and the Chinese Communist Party (Mao Zedong)
 This Is China: The First 5,000 Years (Haiwang Yuan)
 The Search for Modern China (Jonathan Spence)
+China: A History (John Keay)
+Scattered Sand: The Story of China's Rural Migrants (Hsiao-Hung Pai)
 Patrick Bond and Michael Hudson on China: https://theanalysis.news/series/patrick-bond-and-michael-hudson-on-china/
+One China, Many Paths (Edited by Chaohua Wang)
+China: From Permanent Revolution to Counter-Revolution (John Peter Roberts)
 
 INDIA:
 Exasperating Essays (D. D. Kosambi)
@@ -226,7 +226,7 @@ Accumulation and Power: An Economic History of the United States (1989) (Richard
 Oxford History of the United States [or the main entries]
 
 EUROPE:
-The Napoleonic Wars 1803-1815 (David Gates)
+The Napoleonic Wars: 1803-1815 (David Gates)
 
 AFRICA:
 The Making of Contemporary Africa: The Development of African Society since 1800 (Bill Freund)
@@ -356,30 +356,6 @@ The Burning Questions of the Day (Rosa Luxemburg): https://theacheron.medium.com
 Reread Reform or Revolution (Luxemburg)
 The Accumulation of Capital (Luxemburg)
 
-WORLD HISTORY:
-The Penguin History of the World (Roberts) [Book 3, Ch. 5]
-A People's History of the World (Chris Harman)
-The Class Struggle in the Ancient Greek world (G. E. M. de Ste. Croix)
-The Long Twentieth Century: Money, Power, and the Origins of Our Times (Giovanni Arrighi)
-The Age of Revolution: Europe 1789–1848 (Hobsbawm)
-The Age of Capital: 1848–1875 (Hobsbawm)
-The Age of Empire: 1875–1914) (Hobsbawm)
-The Age of Extremes (Hobsbawm)
-The Origins of the First World War (James Joll)
-The Second World War: A Marxist History (Chris Bambery)
-The Meaning of the Second World War (Ernest Mandel)
-The Guns of August (Barbara W. Tuchman)
-The Rise and Fall of the Third Reich (William L. Shirer)
-The Coming Of The Third Reich (Richard Evans)
-Liberty's Dawn: A People's History of the Industrial Revolution (Emma Griffin)
-The Long Depression (Michael Roberts)
-The Invention of Tradition (Hobsbawm, Eric, and Terence Ranger, eds.)
-Chronology of the World (Asimov)
-A History of Western Philosophy (Bertrand Russell)
-Studies of the world’s largest cities
-Liza Picard, Judith Flanders, Jerry White (authors of some people’s histories)
-Annie Lacroix-Riz, Domenico Losurdo, Carlos Martinez, Albert Szymanski, Jacques Pauwels, Walter Rodney
-
 SOCIALIST & LABOR HISTORY:
 A History of Socialist Thought (GDH Cole)
 1. The Forerunners, 1789–1850 (1953)
@@ -420,6 +396,30 @@ The Black Jacobins (C. L. R. James)
 Homage to Catalonia (George Orwell)
 No Harmless Power; The Life and Times of the Ukrainian Anarchist Nestor Makhno (Charlie Allison)
 
+WORLD HISTORY:
+The Penguin History of the World (Roberts) [Book 3, Ch. 5]
+A People's History of the World (Chris Harman)
+The Class Struggle in the Ancient Greek world (G. E. M. de Ste. Croix)
+The Long Twentieth Century: Money, Power, and the Origins of Our Times (Giovanni Arrighi)
+The Age of Revolution: Europe 1789–1848 (Hobsbawm)
+The Age of Capital: 1848–1875 (Hobsbawm)
+The Age of Empire: 1875–1914) (Hobsbawm)
+The Age of Extremes (Hobsbawm)
+The Origins of the First World War (James Joll)
+The Second World War: A Marxist History (Chris Bambery)
+The Meaning of the Second World War (Ernest Mandel)
+The Guns of August (Barbara W. Tuchman)
+The Rise and Fall of the Third Reich (William L. Shirer)
+The Coming Of The Third Reich (Richard Evans)
+Liberty's Dawn: A People's History of the Industrial Revolution (Emma Griffin)
+The Long Depression (Michael Roberts)
+The Invention of Tradition (Hobsbawm, Eric, and Terence Ranger, eds.)
+Chronology of the World (Asimov)
+A History of Western Philosophy (Bertrand Russell)
+Studies of the world’s largest cities
+Liza Picard, Judith Flanders, Jerry White (authors of some people’s histories)
+Annie Lacroix-Riz, Domenico Losurdo, Carlos Martinez, Albert Szymanski, Jacques Pauwels, Walter Rodney
+
 THE RUSSIAN REVOLUTION & THE SOVIET UNION:
 The Bolsheviks Come to Power (Alexander Rabinowich)
 The Bolsheviks in Power (Alexander Rabinowich)
@@ -440,6 +440,7 @@ Red October (Daniels)
 The Soviet Century (Moshe Lewin)
 Collapse: The Fall of the Soviet Union (Vladislav Zubok)
 The Russian Revolution: a view from the Third World (Walter Rodney)
+I Chose Freedom: The Personal Political Life of a Soviet Official (Viktor Kravchenko)
 
 ANARCHISM:
 Anarchy Works (Peter Gelderloos)
@@ -584,6 +585,11 @@ Stephen Wolfram, Daron Acemoglu, David Sloan Wilson, John Bellamy Foster, Bertra
 Fanged Noumena (Nick Land)
 C. Wright Mills, Barrington Moore, and Franz Schurmann, Giddens and Mann
 
+HISTORY OF SCIENCE:
+The History of Physics (Isaac Asimov)
+A Concise History of Mathematics (Struik)
+A History of Mathematics (Boyer and Merzbach)
+
 MODERN:
 Computation and its Limits (Paul Cockshott)
 Arguments For Socialism (Cockshott and Zachariah)
@@ -645,23 +651,36 @@ Downward Spiral of the ICFI (Alex Steiner)
 A Quarter Century of War: The US Drive for Global Hegemony 1990 - 2016 (David North)
 
 BIOGRAPHIES:
-My Life (Trotsky)
 Karl Marx: His Life and Works (Otto Ruhle)
 Karl Marx (Karl Korsch)
 Karl Marx: The Story of His Life (Franz Mehring)
-My Art, My Life (Diego Rivera)
-Narrative of the Life of Frederick Douglass, an American Slave (Frederick Douglass)
+
 Leon Trotsky: The Portrait of a Youth (Max Eastman): https://www.marxists.org/history/etol/writers/eastman/works/1920s/portrait/index.htm 
-Biography of Trotsky (Sedova and Serge)
-Biography of Stalin (Trotsky)
-The Autobiography of Malcolm X
-Marxism in a Lost Century: A Biography of Paul Mattick (Garry Roth)
+Life and Death of Leon Trotsky (Sedova and Serge)
+My Life (Trotsky)
+The Prophet Armed, The Prophet Unarmed, and The Prophet Outcast (Isaac Deutscher)
+
+Lenin’s Childhood (Isaac Deutscher)
+Lenin (Leon Trotsky)
+V. I. Lenin The Story Of His Life (Maria Prilezhayeva)
+Reminiscences of Lenin (N. K. Krupskaya)
+
 Biography of Bakunin (???)
 Rosa Luxemburg: The Biography (Nettl)
+Marxism in a Lost Century: A Biography of Paul Mattick (Garry Roth)
+
+Stalin: An Appraisal of the Man and His Influence (Trotsky) [edited by Alan Woods]
+Stalin, A Political Biography (Isaac Deutscher)
+Stalin: A Critical Survey of Bolshevism (Souvarine)
+
+How It All Began: The Prison Novel (Bukharin)
+My Art, My Life (Diego Rivera)
+Narrative of the Life of Frederick Douglass, an American Slave (Frederick Douglass)
+The Autobiography of Malcolm X
 Einstein: His Life and Universe (Isaacson)
 Biography of von Neumann: https://www.ams.org/journals/bull/1958-64-03/S0002-9904-1958-10189-5/S0002-9904-1958-10189-5.pdf
 My Life as a Dog, I Mean a Teacher (Ron Tabor)
-How It All Began: The Prison Novel (Bukharin)
+Great Physicists: The Life and Times of Leading Physicists from Galileo to Hawking (Cropper)
 
 TROTSKY:
 Trotsky, "To build communist parties and an international anew" (1933)
@@ -680,7 +699,6 @@ The First Five Years of the Communist International (Trotsky)
 The Third International After Lenin (Trotsky)
 Literature and Revolution (Trotsky)
 Culture and Socialism (Trotsky)
-The Prophet Armed, The Prophet Unarmed, and The Prophet Outcast (Isaac Deutscher)
 
 LENIN:
 Lenin Rediscovered (Lars Lih)
@@ -743,6 +761,7 @@ Marxism and Intersectionality (Ashley J. Bohrer)
 Racism and Class Struggle (Grace Lee Bogss)
 Race Rebels: Culture, Politics, and the Black Working Class (Robin DG Kelley)
 Decolonizing Methodologies: Research and Indigenous Peoples (Linda Tuhiwai Smith)
+Strike Toward Freedom (MLK Jr.)
 James Baldwin, Cedric Johnson, Kwame Ture, Maurice Bishop, Angela Davis
 
 POSTMODERNISM
@@ -955,32 +974,3 @@ More Arthur C. Clarke
 Looking Backward (Edward Bellamy)
 The Dark Forest (Cixin Liu)
 etc
-
-——————————
-
-SITES / BLOGS: (better organize this)
-Socialism:
-Marxist Internet Archive: https://www.marxists.org/
-The Anarchist Library: https://theanarchistlibrary.org/special/index
-Anarchist Library Poetry: https://theanarchistlibrary.org/category/topic/poetry
-AK Press: https://www.akpress.org/
-Wright’s Writing: https://www.wrightswriting.com/commentaries
-Boffy’s Blog: https://boffyblog.blogspot.com/
-Communists in Situ: https://cominsitu.wordpress.com/
-Workers’ Control: https://www.workerscontrol.net/
-https://hatfulofhistory.wordpress.com/radical-online-collections-and-archives/
-Rag Picker Poetry (Ciarán O'Rourke): https://www.ragpickerpoetry.net/poetry/
-Prehistory of an Encounter (Nicolas D Villarreal): https://nicolasdvillarreal.substack.com/
-Michael Roberts Blog: https://thenextrecession.wordpress.com/
-Ian Wright/Dark Marxism: https://ianwrightsite.wordpress.com/
-International Council Correspondence: https://marxists.org/subject/left-wing/icc/ 
-The Acheron in Motion: https://theacheron.medium.com/
-Jason Koslowski: leftvoice.org/author/jason-koslowski/
-Adrestia’s Revolt: https://www.youtube.com/@adrestiasrevolt8557
-Resolute Reader: https://resolutereader.blogspot.com/
-CASPER Forum: https://casperforum.org/blog/a-new-scientific-community-for-political-economy-research/?utm_source=substack&utm_medium=email
-Zoe Baker: https://www.youtube.com/@anarchopac
-S21: https://www.rs21.org.uk/2019/01/25/revolutionary-reflections-notes-on-capital-and-the-state-part-1/
-Break Their Haughty Power: https://breaktheirhaughtypower.org/
-https://libcom.org/
-
